@@ -61,7 +61,7 @@ Mapa guardado en: RUTA_MAPA
 
 ## Screenshots
 
-Así se vería el mapa si por ejemplo lanzamos el fichero .html obtenido tras lanzar el script.
+Así se vería el mapa si por ejemplo abrimos en el navegador el fichero .html obtenido tras lanzar el script.
 
 ![App Screenshot](screenshots/ejemplo_mapa.png)
 
